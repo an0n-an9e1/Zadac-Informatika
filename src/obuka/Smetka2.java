@@ -9,13 +9,13 @@ public class Smetka2 {
 		
 		Scanner t = new Scanner(System.in);
 		
-		System.out.println("Jabolki: ");
+		System.out.print("Jabolki: ");
 		double jabolki = t.nextDouble();
 		
-		System.out.println("Krushi: ");
+		System.out.print("Krushi: ");
 		double krusi = t.nextDouble();
 		
-		System.out.println("Grozje: ");
+		System.out.print("Grozje: ");
 		double grozje = t.nextDouble();
 		
 		smetka = jabolki*50 + krusi*60 + grozje*100;
