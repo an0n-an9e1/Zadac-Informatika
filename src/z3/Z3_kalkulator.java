@@ -1,4 +1,4 @@
-package obuka;
+package z3;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package obuka;
+package smetka;
 
 import java.util.Scanner;
 

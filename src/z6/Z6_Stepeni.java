@@ -1,4 +1,4 @@
-package obuka;
+package z6;
 
 import java.util.Scanner;
 

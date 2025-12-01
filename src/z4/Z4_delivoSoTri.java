@@ -1,4 +1,4 @@
-package obuka;
+package z4;
 import java.util.Scanner;
 
 public class Z4_delivoSoTri {

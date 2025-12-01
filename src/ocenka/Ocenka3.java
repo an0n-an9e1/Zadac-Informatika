@@ -1,4 +1,4 @@
-package obuka;
+package ocenka;
 
 import java.util.Scanner; 
 public class Ocenka3 {

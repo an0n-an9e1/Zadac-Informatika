@@ -1,4 +1,4 @@
-package obuka;
+package dropki;
 
 import java.util.Scanner;
 

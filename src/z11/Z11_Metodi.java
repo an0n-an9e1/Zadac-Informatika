@@ -1,4 +1,4 @@
-package obuka;
+package z11;
 
 public class Z11_Metodi {
 	static int zbir(int a, int b, int z) {

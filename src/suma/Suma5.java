@@ -1,4 +1,4 @@
-package obuka;
+package suma;
 import java.util.Scanner;
 
 public class Suma5 {

@@ -1,4 +1,4 @@
-package obuka;
+package z10;
 
 class Z10_Student {
 int id;

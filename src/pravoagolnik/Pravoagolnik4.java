@@ -1,4 +1,4 @@
-package obuka;
+package pravoagolnik;
 
 import java.util.Scanner;
 

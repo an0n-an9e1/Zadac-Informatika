@@ -1,4 +1,4 @@
-package obuka;
+package z8;
 
 public class Z8_Soberi {
 	public static void main(String[] args) {

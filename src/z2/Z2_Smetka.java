@@ -1,4 +1,4 @@
-package obuka;
+package z2;
 
 public class Z2_Smetka {
 

@@ -1,4 +1,4 @@
-package obuka;
+package z9;
 
 public class Z9_Bike {
 	Z9_Bike() {

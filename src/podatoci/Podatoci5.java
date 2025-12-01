@@ -1,4 +1,4 @@
-package obuka;
+package podatoci;
 
 public class Podatoci5 {
 	public static void main(String[] args) {
