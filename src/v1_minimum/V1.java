@@ -10,6 +10,10 @@ public class V1 {
             return b;
         }
     }
+    
+    static double sredna(int a, int b, int c) {
+    	return (a+b+c)/3.0;
+    }
 
     public static void main(String[] args) {
         System.out.print("Vnesi go brojot A: ");
@@ -19,9 +23,14 @@ public class V1 {
         System.out.print("Vnesi go brojot B: ");
         int b = t.nextInt();
         
-        int c = min(a, b);
+        System.out.print("Vnesi go brojot C: ");
+        int c = t.nextInt();
         
-        System.out.println("Najmaliot broj e " + c);
+        int m = min(a, min(b, c));
+        
+        double s = sredna(a, b, c);
+        
+        System.out.println("Najmaliot broj e " + m);
+        System.out.println("Srednata vrednost e " + s);    
     }
-
 }
